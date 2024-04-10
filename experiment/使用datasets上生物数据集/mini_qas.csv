@@ -1,0 +1,9 @@
+id,question,answer,relevant_passage_ids
+206,Between which probes does the recurrent translocation breakpoint on chromosome 22 of neuroepithelioma lie?,"The recurrent translocation breakpoint on chromosome 22 of neuroepithelioma has been localized between two probes, D22S1 and D22S15, by both in situ hybridization and somatic cell hybrids",[2303258]
+772,Which is the genetic lesion associated with Huntington’s disease?,The genetic lesion associated with Huntington's disease is a CAG trinucleotide repeat expansion in the HD (or HTT) gene.,[7620118]
+1172,Which is the chromosomal location of the gene MAOA?,The MAOA gene is locatad on chromosome X (Xp21-p11).,[2906043]
+1722,What is the most prominent sequence consensus for the polyadenylation site?,"Functional polyadenylation [poly(A)] sites consist of two sequence elements, the AAUAAA and G/U box signals, that closely flank the site of mRNA 3'-end formation. The canonical polyadenylation signal sequence AATAAA","[1993703, 6194440, 1712333, 2513486, 1915889, 7901430]"
+2523,What causes Black Lung?,"Black lung, also known as pneumoconiosis, is caused by chronic exposure to coal dust.","[8199664, 8803434, 8456342, 6453959]"
+2586,What is the approximate size of gas vesicles?,The diameter of gas vesicles is approximately 100nm.,[807555]
+3600,Which de novo mutation in FGFR cause achondroplasia?,"Recurrent missense mutations in a CpG doublet of the transmembrane domain of the FGFR3 protein (glycine substituted with arginine at residue 380, G380R).",[8078586]
+3822,List as many European influenza vaccines as possible.,"Three split-virion vaccines (Vaxigrip, Begrivac, and Influsplit/Fluarix) and three subunit vaccines containing only viral surface glycoproteins (Influvac, Agrippal, and Fluvirin).",[8801083]
